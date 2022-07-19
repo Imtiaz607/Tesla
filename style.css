@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.container-fluid{
+    width: 100%;
+}
+
+.menu{
+    text-align: center;
+    background-color: darkslategray;
+    padding: 20px;
+}
+
+.menu a{
+color: white;
+text-decoration: none;
+margin-right: 30px;
+}
+
+.menu a:hover{
+    background-color: bisque;
+    color: brown;
+    padding:0px 10px 0px 10px;
+}
