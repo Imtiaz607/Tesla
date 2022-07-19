@@ -15,6 +15,7 @@ body{
     text-align: center;
     background-color: darkslategray;
     padding: 20px;
+    margin-bottom: 40px;
 }
 
 .menu a{
@@ -31,4 +32,14 @@ margin-right: 30px;
 
 .blok{
     display:inline-block;
+}
+
+.box{
+    background-color: aqua;
+    padding: 20px;
+    margin: 10px;
+}
+.tes{
+    margin-left: 50px;
+    color: brown;
 }
